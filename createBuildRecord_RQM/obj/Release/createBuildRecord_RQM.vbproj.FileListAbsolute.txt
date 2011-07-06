@@ -1,0 +1,9 @@
+\\Mportc03fs1\Users$\r611273\Home\Desktop\sourceCode\Projects\createBuildRecord_RQM\createBuildRecord_RQM\bin\Release\createBuildRecord_RQM.exe
+\\Mportc03fs1\Users$\r611273\Home\Desktop\sourceCode\Projects\createBuildRecord_RQM\createBuildRecord_RQM\bin\Release\createBuildRecord_RQM.pdb
+\\Mportc03fs1\Users$\r611273\Home\Desktop\sourceCode\Projects\createBuildRecord_RQM\createBuildRecord_RQM\bin\Release\createBuildRecord_RQM.xml
+\\Mportc03fs1\Users$\r611273\Home\Desktop\sourceCode\Projects\createBuildRecord_RQM\createBuildRecord_RQM\obj\Release\ResolveAssemblyReference.cache
+\\Mportc03fs1\Users$\r611273\Home\Desktop\sourceCode\Projects\createBuildRecord_RQM\createBuildRecord_RQM\obj\Release\createBuildRecord_RQM.Resources.resources
+\\Mportc03fs1\Users$\r611273\Home\Desktop\sourceCode\Projects\createBuildRecord_RQM\createBuildRecord_RQM\obj\Release\createBuildRecord_RQM.vbproj.GenerateResource.Cache
+\\Mportc03fs1\Users$\r611273\Home\Desktop\sourceCode\Projects\createBuildRecord_RQM\createBuildRecord_RQM\obj\Release\createBuildRecord_RQM.exe
+\\Mportc03fs1\Users$\r611273\Home\Desktop\sourceCode\Projects\createBuildRecord_RQM\createBuildRecord_RQM\obj\Release\createBuildRecord_RQM.xml
+\\Mportc03fs1\Users$\r611273\Home\Desktop\sourceCode\Projects\createBuildRecord_RQM\createBuildRecord_RQM\obj\Release\createBuildRecord_RQM.pdb
